@@ -1,0 +1,43 @@
+#navbar{
+    flex-direction: column;
+}
+#navbar ul li a{
+    flex-direction: column;
+    font-size: 20px;
+    flex-wrap: wrap;
+    margin:-5px -5px;
+    padding: 6px 10px;
+}
+#logo{
+    flex-direction: column;
+    align-items: center;}
+.logo{
+    flex-direction: column;
+    align-items: center;
+}
+.home{
+    height: 400px;
+    padding: 3px 40px;
+
+}
+
+.home::before{
+    height: 700px;
+
+}
+.home p{
+    font-size: 25px;
+}
+#services{
+    flex-direction:column;
+
+}
+.btn{
+    padding: 1px 49px;
+   justify-content: center;
+   text-align: center;
+   align-items: center;
+}
+html{
+    scroll-behavior: smooth;
+}
