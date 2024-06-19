@@ -96,7 +96,7 @@
 }
 #home::before{
     content: "";
-    background:url(../bg.jpg) no-repeat center center/cover;
+    background:url(bg.jpg) no-repeat center center/cover;
     position: absolute;
     opacity:0.89;
     z-index: -1;
@@ -149,7 +149,7 @@
 }
 #client-section::before{
     content: "";
-    background:url(../bg2.jpg) no-repeat center center/cover;
+    background:url(bg2.jpg) no-repeat center center/cover;
     position: absolute;
     opacity:0.8;
     z-index: -1;
@@ -181,7 +181,7 @@
 }
 #contact-container::before{
     content: "";
-    background:url(../bg4.avif) no-repeat center center/cover;
+    background:url(bg4.avif) no-repeat center center/cover;
     position: absolute;
     opacity:0.9;
     z-index: -1;
